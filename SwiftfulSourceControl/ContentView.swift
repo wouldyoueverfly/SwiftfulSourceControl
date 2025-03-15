@@ -14,6 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.pink)
             Text("Git Source Control")
+            Button("Click me") {
+                
+            }
         }
         .padding()
     }
