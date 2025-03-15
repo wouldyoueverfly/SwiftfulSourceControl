@@ -14,15 +14,15 @@ struct ContentView: View {
                 VStack {
                     ForEach(0..<3) { _ in
                         VStack(spacing: 20) {
-                            Image(systemName: "magnifyingglass")
+                            Image(systemName: "heart.fill")
                                 .imageScale(.large)
                                 .foregroundStyle(.pink)
                             Text("I love Swift Concurrency")
                                 .font(.headline)
-                            Button("Click me") {
+                            Button("Don't do that again") {
                                 
                             }
-                            Button("Love my job") {
+                            Button("Love how i'm depressed") {
                                 
                             }
                             RoundedRectangle(cornerRadius: 10, style: .circular)
