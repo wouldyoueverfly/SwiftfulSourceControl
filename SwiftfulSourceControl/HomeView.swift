@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        ZStack {
+        VStack(spacing: 12) {
             Text("Menu 1")
             Text("Anya Taylor Joy is awesome!")
         }
