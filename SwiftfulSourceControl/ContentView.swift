@@ -22,7 +22,7 @@ struct ContentView: View {
                             Button("Don't do that again") {
                                 
                             }
-                            Button("Love my job") {
+                            Button("Love how i'm depressed") {
                                 
                             }
                             RoundedRectangle(cornerRadius: 10, style: .circular)
