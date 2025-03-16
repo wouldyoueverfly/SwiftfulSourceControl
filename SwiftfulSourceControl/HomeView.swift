@@ -13,7 +13,7 @@ struct HomeView: View {
     
     var body: some View {
         VStack(spacing: 12) {
-            Text("Maybe watch some film?")
+            Text("Maybe code for sunset?")
             
             Text("Menu 2")
             Text("Anya Taylor Joy is awesome!")
