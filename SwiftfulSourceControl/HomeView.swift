@@ -18,8 +18,6 @@ struct HomeView: View {
             Text("Menu 2")
             Text("Anya Taylor Joy is awesome!")
             
-            Text("I'll try to finish this adventure")
-            
             Text(title)
         }
         .onAppear {
