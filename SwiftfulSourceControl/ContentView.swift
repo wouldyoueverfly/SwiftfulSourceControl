@@ -17,7 +17,7 @@ struct ContentView: View {
             Button("Click me") {
                 
             }
-            Button("Subscribe") {
+            Button("Subscribe now!") {
                 
             }
             Rectangle()
