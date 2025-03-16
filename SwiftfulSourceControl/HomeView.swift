@@ -15,7 +15,7 @@ struct HomeView: View {
         VStack(spacing: 12) {
             Text("Maybe watch some film?")
             
-            Text("Menu 1")
+            Text("Menu 2")
             Text("Anya Taylor Joy is awesome!")
             
             Text("I'll try to finish this adventure")
