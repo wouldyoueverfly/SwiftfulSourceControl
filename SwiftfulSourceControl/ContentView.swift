@@ -21,6 +21,7 @@ struct ContentView: View {
                 
             }
             Rectangle()
+            Circle()
         }
         .padding()
     }
