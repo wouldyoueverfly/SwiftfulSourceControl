@@ -20,9 +20,7 @@ struct HomeView: View {
             
             Text(title)
         }
-        .onAppear {
-            // send analytics
-        }
+
     }
 }
 
