@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack(spacing: 20) {
-            Image(systemName: "bolt.fill")
+            Image(systemName: "house.fill")
                 .imageScale(.large)
                 .foregroundStyle(.pink)
             Text("Stay coding addicted")
