@@ -20,6 +20,9 @@ struct HomeView: View {
             
             Text(title)
         }
+        .onTapGesture {
+            // analytics
+        }
 
     }
 }
