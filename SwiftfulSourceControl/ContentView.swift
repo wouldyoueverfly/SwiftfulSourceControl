@@ -24,8 +24,9 @@ struct ContentView: View {
                             Button("Love my job") {
                                 
                             }
-                            Rectangle()
-                            Circle()
+                            RoundedRectangle(cornerRadius: 10, style: .circular)
+                                .opacity(0.1)
+                            
                         }
                         .padding()
                     }
