@@ -19,7 +19,7 @@ struct ContentView: View {
                                 .foregroundStyle(.pink)
                             Text("I love Swift Concurrency")
                                 .font(.headline)
-                            Button("Click me") {
+                            Button("Don't do that again") {
                                 
                             }
                             Button("Love my job") {
