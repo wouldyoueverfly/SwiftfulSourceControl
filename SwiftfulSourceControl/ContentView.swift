@@ -14,7 +14,7 @@ struct ContentView: View {
                 VStack {
                     ForEach(0..<3) { _ in
                         VStack(spacing: 20) {
-                            Image(systemName: "heart.fill")
+                            Image(systemName: "house.fill")
                                 .imageScale(.large)
                                 .foregroundStyle(.pink)
                             Text("I love Swift Concurrency")
