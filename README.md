@@ -1,3 +1,3 @@
 # Description
 
-This repository created in learning purpose
+- This repository created in learning purpose
