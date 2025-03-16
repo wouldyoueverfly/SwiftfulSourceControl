@@ -13,7 +13,21 @@ struct ContentView: View {
             ScrollView {
                 VStack {
                     ForEach(0..<20) { _ in
-                        Text("I love coding for end of my life")
+                        VStack(spacing: 20) {
+                            Image(systemName: "globe")
+                                .imageScale(.large)
+                                .foregroundStyle(.pink)
+                            Text("I love Swift")
+                            Button("Click me") {
+                                
+                            }
+                            Button("Love my job") {
+                                
+                            }
+                            Rectangle()
+                            Circle()
+                        }
+                        .padding()
                     }
                 }
             }
